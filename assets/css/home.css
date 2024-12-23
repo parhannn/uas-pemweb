@@ -1,0 +1,49 @@
+h2 {
+  margin-top: 40px;
+}
+
+.lecturer-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.lecturer-card {
+  width: 30%;
+  margin: 0;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: box-shadow 0.5s;
+}
+
+.lecturer-card:hover {
+  box-shadow: 0 4px 8px rgb(0, 130, 230);
+}
+
+.lecturer-photo img {
+  width: 120px;
+  height: 120px;
+  margin: 7vh 0 0 0;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.lecturer-info h2 {
+  margin-top: 15px;
+  font-size: 24px;
+  color: #333;
+  text-align: center;
+}
+
+.lecturer-info p {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #666;
+  text-align: center;
+}
