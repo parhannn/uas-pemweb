@@ -13,7 +13,7 @@ Tema: **Buku Tamu Prodi**
 ## Cara Instalasi & Penggunaan
 
 ### 1. Prasyarat
-Pastikan Anda memiliki XAMPP atau sejenisnya.
+Pastikan Anda memiliki XAMPP atau sejenisnya dan Browser.
 
 ### 2. Instalasi
 1. Clone repositori ini ke komputer Anda:  
