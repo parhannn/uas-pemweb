@@ -25,11 +25,11 @@ Pastikan Anda memiliki XAMPP atau sejenisnya dan Browser.
    XAMPP/htodcs/...
     ```
 ### 3. Menjalankan Program
-1. Buka pada browser:
+1. Lakukan migrasi database dengan menggunakan browser, dan ketik:
    ```bash
    http://localhost/uas-pemweb/migration.php
    ```
-2. Buka:
+2. Buka web:
    ```bash
    http://localhost/uas-pemweb/form.php
    ```
