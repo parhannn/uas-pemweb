@@ -490,7 +490,7 @@ class Connection {
 ?>
 ```
 
-- Dan juga pada `question.php` saya menambahkan sepeti formulir pesan, data nama dan pesan akan tersimpan ke local storage browser. Berikut cuplikan code javascript pada `question.php` saya:
+- Dan juga pada `question.php` saya menambahkan seperti formulir pesan, data nama dan pesan akan tersimpan ke local storage browser. Berikut cuplikan code javascript pada `question.php` saya:
 
 ```html
 <script>
