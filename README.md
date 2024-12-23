@@ -36,7 +36,7 @@ Pastikan Anda memiliki XAMPP atau sejenisnya dan Browser.
 
 ## Kelemahan Program
 
-- Program belum memiliki fitur login dengan login form, dan session login.
+- Program belum memiliki fitur login untuk admin yang benar dengan login form, dan session login. Admin site bisa langsung diakses melalui tombol `Login Admin` pada home.
 
 ## Bagian 1: Client-side Programming (Bobot: 30%)
 
